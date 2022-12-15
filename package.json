@@ -16,7 +16,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-web": "^0.11.7",
     "twilio": "^3.35.1",
-    "twilio-chat": "^3.3.2"
+    "twilio-chat": "^6.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
